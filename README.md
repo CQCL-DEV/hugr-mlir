@@ -1,6 +1,6 @@
 # hugr-mlir
 
-A prototype for integrating (hugr)[https://github.com/CQCL/hugr] and (mlir)[https://mlir.llvm.org].
+A prototype for integrating [hugr](https://github.com/CQCL/hugr) and [mlir](https://mlir.llvm.org).
 
 ## Building and Dependencies
 
@@ -45,7 +45,6 @@ $ cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX
 
 ```
 $ ninja -C build
-
 ```
 ## Components
 
